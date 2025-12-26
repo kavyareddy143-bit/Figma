@@ -29,6 +29,7 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -123,6 +124,7 @@ button {
 button:hover {
     background-color: #0078ff;
 }
+```
 
 # OUTPUT:
 ![alt text](image.png)
