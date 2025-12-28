@@ -123,10 +123,39 @@ button {
 /* Button hover effect */
 button:hover {
     background-color: #0078ff;
-}
+}<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="globals.css" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="iphone-pro">
+      <div class="rectangle"></div>
+      <div class="text-wrapper">Registration Form</div>
+      <div class="ellipse"></div>
+      <div class="div"></div>
+      <div class="ellipse-2"></div>
+      <div class="ellipse-3"></div>
+      <div class="ellipse-4"></div>
+      <div class="ellipse-5"></div>
+      <div class="text-wrapper-2">Name</div>
+      <div class="text-wrapper-3">Register No</div>
+      <div class="text-wrapper-4">Department</div>
+      <div class="text-wrapper-5">Mobile No</div>
+      <div class="text-wrapper-6">Email ID</div>
+      <div class="text-wrapper-7">No of Event</div>
+      <div class="text-wrapper-8">Submit</div>
+    </div>
+  </body>
+</html>
+
 ```
 
 # OUTPUT:
-![alt text](image.png)
+<img width="1163" height="686" alt="image" src="https://github.com/user-attachments/assets/8a119865-76f3-43bf-a3c8-d97f02ac8cfd" />
+
 # RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
